@@ -3,7 +3,7 @@ module.exports = {
     {
       type: 'doc',
       id: 'quickstart',
-      label: 'Быстрый старт',
+      label: 'Быстрый  старт',
     },
     
   ],
