@@ -9,7 +9,7 @@ export default function Home() {
     >
       <main className="container">
         <div style={{padding: '4rem 0', textAlign: 'center'}}>
-          <img src="/img/logo.svg" alt="Bidmart Logo" style={{height: 70, marginBottom: 32}} />
+          <img src="https://www.bidmart.by/img/logo-small.svg" alt="Bidmart Logo" style={{height: 70, marginBottom: 32}} />
           <h1>Документация Bidmart</h1>
           <p>
             Современная система управления закупками и контрактами.<br/>
